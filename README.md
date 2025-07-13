@@ -44,7 +44,7 @@ student-todo-list/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/student-todo-list.git
+   git clone  https://kgnanavel.github.io/Todo-list/
    cd student-todo-list
    ```
 
@@ -57,13 +57,6 @@ student-todo-list/
    * Add a task with the input box and hit Enter or click "Add".
    * Click on a task to mark it as done.
    * Use the trash icon to delete a task.
-
----
-
-### 📸 Screenshot
-
-![To-Do List Screenshot](screenshot.png)
-
 ---
 
 ### 📌 Sample Code Snippet
@@ -103,8 +96,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ### 🙋‍♂️ Author
 
-* **Name**: Your Name
-* **GitHub**: [@yourusername](https://github.com/yourusername)
+* **Name**: GNANAVEL K
+* **GitHub**:  https://kgnanavel.github.io/Todo-list/
 
 ---
 
